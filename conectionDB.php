@@ -3,14 +3,14 @@
     try {
         /* Conexão com o banco de dados */
         $dbType = 'mysql'; /* Tipo */
-        $dbName = 'represados'; /* Nome */
-        $dbPath = 'localhost'; /* Local */
+        $dbName = '3354469_robert'; /* Nome */
+        $dbPath = 'fdb18.awardspace.net'; /* Local */
         $dbCharset = 'utf8'; /* Agrupamento */
-        $dbUser = 'root'; /* Nome do Usuário */
-        $dbPass = ''; /* Senha do Usuário */
+        $dbUser = '3354469_robert'; /* Nome do Usuário */
+        $dbPass = 'crocodilo0210'; /* Senha do Usuário */
 
         $pdo = new PDO( /* Conexão com o banco de dados */
-            "{$dbType}:dbname={$dbName};host={$dbPath}:3307;charset={$dbCharset}",
+            "{$dbType}:dbname={$dbName};host={$dbPath};charset={$dbCharset}",
             $dbUser,
             $dbPass,
             [\PDO::MYSQL_ATTR_LOCAL_INFILE => true] 
