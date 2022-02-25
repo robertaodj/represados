@@ -1,0 +1,17 @@
+{
+    "name": "robertaodj/represados",
+    "description": "represados",
+    "autoload": {
+        "psr-4": {
+            "Robertaodj\\Represados\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "robertaodj",
+            "email": "robert.di.jesus@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
