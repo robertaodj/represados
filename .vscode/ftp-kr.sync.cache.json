@@ -1,0 +1,48 @@
+{
+  "ftp://represados.orgfree.com@represados.orgfree.com:21": {
+    ".ftpquota": {
+      "type": "-",
+      "size": 13,
+      "lmtime": 0,
+      "modified": false
+    },
+    "Banco-represados.sql": {
+      "type": "-",
+      "size": 401714,
+      "lmtime": 0,
+      "modified": false
+    },
+    "arquivos": {},
+    "conectionDB.php": {
+      "type": "-",
+      "size": 715,
+      "lmtime": 0,
+      "modified": false
+    },
+    "index.php": {
+      "type": "-",
+      "size": 3843,
+      "lmtime": 0,
+      "modified": false
+    },
+    "robots.txt": {
+      "type": "-",
+      "size": 25,
+      "lmtime": 0,
+      "modified": false
+    },
+    "tratandoStatus.php": {
+      "type": "-",
+      "size": 1203,
+      "lmtime": 0,
+      "modified": false
+    },
+    "uploadArquivo.php": {
+      "type": "-",
+      "size": 8459,
+      "lmtime": 0,
+      "modified": false
+    }
+  },
+  "$version": 1
+}
