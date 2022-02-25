@@ -3,10 +3,10 @@
     try {
         /* Conexão com o banco de dados */
         $dbType = 'mysql'; /* Tipo */
-        $dbName = '3354469_robert'; /* Nome */
-        $dbPath = 'fdb18.awardspace.net'; /* Local */
+        $dbName = 'povph_31151588_represados'; /* Nome */
+        $dbPath = 'sql308.vphs.top'; /* Local */
         $dbCharset = 'utf8'; /* Agrupamento */
-        $dbUser = '3354469_robert'; /* Nome do Usuário */
+        $dbUser = 'povph_31151588'; /* Nome do Usuário */
         $dbPass = 'crocodilo0210'; /* Senha do Usuário */
 
         $pdo = new PDO( /* Conexão com o banco de dados */
