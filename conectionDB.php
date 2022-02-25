@@ -1,6 +1,10 @@
 <?php
 
+error_reporting(E_ALL);
+ini_set( 'display_errors','1');
+
     try {
+        
         /* Conexão com o banco de dados */
         $dbType = 'mysql'; /* Tipo */
         $dbName = 'd9tfkt0bt6tyhm2p'; /* Nome */
