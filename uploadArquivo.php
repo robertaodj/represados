@@ -1,6 +1,10 @@
 <?php
     //Apaga o arquivo text.tx
     // @'arquivos/text.txt' ? unlink('arquivos/text.txt') : '';
+
+    
+error_reporting(E_ALL);
+ini_set( 'display_errors','1');
        
     // Pasta onde o arquivo vai ser salvo
     $_UP['pasta'] = 'arquivos/';
